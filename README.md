@@ -1,6 +1,23 @@
-# hungry_app
+# Hungrey App
 
-A new Flutter project.
+A Flutter-based food delivery mobile application with authentication and dynamic product management.
+
+## Features
+- User Sign In & Sign Up
+- REST API Integration
+- Dynamic Product Display
+- Cart & Checkout System
+- Order Summary Screen
+- Responsive UI Design
+- State Management using Cubit (Flutter Bloc)
+
+## Technologies Used
+- Flutter
+- Dart
+- Cubit / Flutter Bloc
+- REST API
+- Dio
+- Figma
 
 ## Getting Started
 
